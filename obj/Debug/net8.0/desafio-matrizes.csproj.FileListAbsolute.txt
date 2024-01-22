@@ -1,0 +1,14 @@
+C:\Projetos\desafio-matrizes\bin\Debug\net8.0\desafio-matrizes.exe
+C:\Projetos\desafio-matrizes\bin\Debug\net8.0\desafio-matrizes.deps.json
+C:\Projetos\desafio-matrizes\bin\Debug\net8.0\desafio-matrizes.runtimeconfig.json
+C:\Projetos\desafio-matrizes\bin\Debug\net8.0\desafio-matrizes.dll
+C:\Projetos\desafio-matrizes\bin\Debug\net8.0\desafio-matrizes.pdb
+C:\Projetos\desafio-matrizes\obj\Debug\net8.0\desafio-matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\desafio-matrizes\obj\Debug\net8.0\desafio-matrizes.AssemblyInfoInputs.cache
+C:\Projetos\desafio-matrizes\obj\Debug\net8.0\desafio-matrizes.AssemblyInfo.cs
+C:\Projetos\desafio-matrizes\obj\Debug\net8.0\desafio-matrizes.csproj.CoreCompileInputs.cache
+C:\Projetos\desafio-matrizes\obj\Debug\net8.0\desafio-matrizes.dll
+C:\Projetos\desafio-matrizes\obj\Debug\net8.0\refint\desafio-matrizes.dll
+C:\Projetos\desafio-matrizes\obj\Debug\net8.0\desafio-matrizes.pdb
+C:\Projetos\desafio-matrizes\obj\Debug\net8.0\desafio-matrizes.genruntimeconfig.cache
+C:\Projetos\desafio-matrizes\obj\Debug\net8.0\ref\desafio-matrizes.dll
